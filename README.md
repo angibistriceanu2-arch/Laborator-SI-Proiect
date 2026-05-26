@@ -19,4 +19,3 @@ Aceasta citește valoarea analogică și o transformă într-un interval corespu
 2. Funcția de control al LED-urilor în funcție de direcția de rotație
 Aceasta determină sensul variației semnalului citit de la potențiometru și activează LED-ul corespunzător, oferind feedback vizual utilizatorului.
 
-Aceste modificări adaugă interactivitate proiectului și facilitează înțelegerea comportamentului sistemului în timp real.
